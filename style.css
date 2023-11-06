@@ -6,8 +6,12 @@ body{
 
 ul{
     display: flex;
-justify-content: space-between;
-list-style-type: none;
-align-items: center;
-padding: 16px;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: white;
 }
